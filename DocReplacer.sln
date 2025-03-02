@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocReplacer", "DocReplacer.csproj", "{7332AE11-11C4-4C67-BA74-11128CB4C700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7332AE11-11C4-4C67-BA74-11128CB4C700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7332AE11-11C4-4C67-BA74-11128CB4C700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7332AE11-11C4-4C67-BA74-11128CB4C700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7332AE11-11C4-4C67-BA74-11128CB4C700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D3A5103-74CF-456A-83A3-A51A656074D6}
+	EndGlobalSection
+EndGlobal
